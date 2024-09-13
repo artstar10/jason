@@ -1,0 +1,12 @@
+{
+  "nome": "Jason Voorhees",
+  "dia": "Sexta-feira",
+  "data": "13",
+  "acao": "Perseguindo bugs",
+  "status": "Ativo",
+  "mensagem": {
+    "inicio": "Hoje é sexta-feira 13! Prepare-se, pois JSON está à espreita...",
+    "bug_encontrado": "Ops! Encontramos um bug no JSON. Cuidado, Jason pode estar perto para te assustar!",
+    "sem_bugs": "Tudo tranquilo! O JSON está limpo e Jason está descansando... por enquanto."
+  }
+}
